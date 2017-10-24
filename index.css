@@ -3,10 +3,10 @@ header{
 	color: #00272B;
 	background: #b2b2b2;
 	background-size: cover;
+	font-family: "Courier New";
 }
 h1{
 	font-size: 70px;
-	font-family: 'Open Sans Condensed', cursive;
 }
 a{
 	color: white;
@@ -19,7 +19,6 @@ ul{
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
-	font-family: "Courier New";
 }
 img{
 	margin: 40px 0px 0px 0px;
