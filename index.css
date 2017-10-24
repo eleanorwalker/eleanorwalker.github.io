@@ -1,7 +1,7 @@
 header{
 	text-align: center;
-	color: white;
-	background: url("https://farm1.nzstatic.com/_proxy/imageproxy_1y/serve/milford-sound.jpg?focalpointx=50&focalpointy=50&height=440&outputformat=jpg&quality=75&source=2395840&transformationsystem=focalpointcrop&width=1280&securitytoken=320A6A544B3FD88F97FD51CED20262C6");
+	color: #00272B;
+	background: #b2b2b2;
 	background-size: cover;
 }
 h1{
@@ -13,8 +13,8 @@ a{
 }
 ul{
 	padding: 10px;
-	background: white;
-	background: #7da6e8;
+	background: #00272B;
+	color: white;
 }
 li{
 	display: inline;
