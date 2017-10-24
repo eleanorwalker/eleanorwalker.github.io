@@ -1,0 +1,22 @@
+header{
+	text-align: center;
+	color: #00272B;
+	background: #b2b2b2;
+	background-size: cover;
+	font-family: "Courier New";
+}
+h1{
+	font-size: 70px;
+}
+a{
+	color: #e9e3e6;
+}
+ul{
+	padding: 10px;
+	background: #00272B;
+	color: white;
+}
+li{
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}

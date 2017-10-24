@@ -9,7 +9,7 @@ h1{
 	font-size: 70px;
 }
 a{
-	color: white;
+	color: #e9e3e6;
 }
 ul{
 	padding: 10px;
@@ -19,9 +19,4 @@ ul{
 li{
 	display: inline;
 	padding: 0px 10px 0px 10px;
-}
-img{
-	margin: 40px 0px 0px 0px;
-	border: 7px solid white;
-	border-radius: 7px;
 }
