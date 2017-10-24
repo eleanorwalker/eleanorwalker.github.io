@@ -26,7 +26,6 @@ li{
 }
 img{
 	margin: 40px 0px 0px 0px;
-	border: 7px;
-	border-color: solid #c3baba;
+	border: 7px solid white;
 	border-radius: 7px;
 }
