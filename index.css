@@ -13,7 +13,7 @@ h2{
 	font-size: 20px;
 }
 a{
-	color: #e9e3e6;
+	color: white;
 }
 ul{
 	padding: 10px;
@@ -26,6 +26,7 @@ li{
 }
 img{
 	margin: 40px 0px 0px 0px;
-	border: 7px #e9e3e6;
+	border: 7px;
+	border-color: solid #c3baba;
 	border-radius: 7px;
 }
