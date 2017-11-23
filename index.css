@@ -29,3 +29,21 @@ img{
 	border: 7px solid white;
 	border-radius: 7px;
 }
+footer{
+    color: white;
+    background: #b2b2b2;
+    background-size: cover;
+    font-family: "Courier New";
+    background: #b2b2b2;
+    text-align: center;
+}
+.contact{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #00272B;
+}
+.media_buttons{
+    background: #b2b2b2;
+    background-size: cover;
+    padding-bottom: 5px;
+}
